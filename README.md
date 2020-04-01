@@ -1,1 +1,4 @@
-# programmers_gitbook
+# programmers에서 문제풀고 정리 하는 공간
+
+열심히 풀자!! 배워야 할게 넘 많음!!!! 
+
